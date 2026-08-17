@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/maksy/myProjects/saper/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\SAPER.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SAPER.dir\\src\\main.cpp.obj -c C:\\Users\\maksy\\myProjects\\saper\\src\\main.cpp",
+  "file": "C:/Users/maksy/myProjects/saper/src/main.cpp",
+  "output": "CMakeFiles/SAPER.dir/src/main.cpp.obj"
+}
+]

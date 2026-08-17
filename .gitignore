@@ -1,0 +1,23 @@
+# --- CMake i kompilacja ---
+build/
+bin/
+out/
+
+# --- Pliki wykonywalne i binarne Windows ---
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+
+# --- Visual Studio / VS Code ---
+.vscode/
+.vs/
+*.suo
+*.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+*.cmake
+!CMakeLists.txt

@@ -1,3 +1,0 @@
-C:/Users/maksy/myProjects/saper/build/CMakeFiles/SAPER.dir
-C:/Users/maksy/myProjects/saper/build/CMakeFiles/edit_cache.dir
-C:/Users/maksy/myProjects/saper/build/CMakeFiles/rebuild_cache.dir

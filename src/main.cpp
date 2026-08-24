@@ -1,6 +1,10 @@
 #include <iostream>
+#include "MinesweeperBoard.h"
+
 
 int main() {
-    std::cout << "Hello world" << std::endl;
-    return 0;
+
+    MinesweeperBoard board(10, 10, DEBUG);
+    board.debug_display();
+
 }

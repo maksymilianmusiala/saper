@@ -8,7 +8,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Dodanie pliku wykonywalnego i wskazanie pliku w folderze src
 add_executable(SAPER src/main.cpp
                     src/MinesweeperBoard.cpp
-                    src/MSBoardTextView.cpp)
+                    src/MSBoardTextView.cpp
+                    src/MSTextController.cpp)
 
 # Wskazanie folderu z plikami nagłówkowymi (.h / .hpp), 
 # aby kompilator wiedział, gdzie ich szukać przy instrukcji #include
